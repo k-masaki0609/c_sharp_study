@@ -1,0 +1,38 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <Label Height="30"/>
+            <TextBlock Height="30"/>
+            <TextBlock Height="30"/>
+            <Button Height="30"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal"
+                    Height="100"
+                    Margin="10">
+            <Label Height="30" Width="100"/>
+            <TextBlock Height="30" Width="100"/>
+            <TextBlock Height="30" Width="100"/>
+            <Button Height="30" Width="100" Margin="0,0,0,35" VerticalAlignment="Bottom"/>
+            <!--
+            ・VerticalAlignmentと HorizontallAlignment
+            　配置の決定　VerticalAlignment・・・縦、HorizontallAlignment・・・横
+            ・Margin
+            　余白の設定（左,上,右,下）
+            ・Label
+            　Context⇒テキスト
+            ・Textbox
+            　Text⇒テキスト
+            ・Button
+            　Context⇒テキスト
+            -->
+        </StackPanel>
+    </Grid>
+</Window>

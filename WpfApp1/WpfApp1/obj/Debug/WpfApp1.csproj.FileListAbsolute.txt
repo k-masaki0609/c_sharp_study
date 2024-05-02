@@ -1,0 +1,16 @@
+D:\wk\c_sharp_study\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\wk\c_sharp_study\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\wk\c_sharp_study\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\wk\c_sharp_study\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\wk\c_sharp_study\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+D:\wk\c_sharp_study\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\wk\c_sharp_study\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\wk\c_sharp_study\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\wk\c_sharp_study\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\wk\c_sharp_study\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\wk\c_sharp_study\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\wk\c_sharp_study\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\wk\c_sharp_study\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\wk\c_sharp_study\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\wk\c_sharp_study\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\wk\c_sharp_study\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
